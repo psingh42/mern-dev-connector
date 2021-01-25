@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://psingh:psingh@cluster0.oxg6i.mongodb.net/mern1db?retryWrites=true&w=majority",
+    "jwtSecret": "mySecretToken",
+    "githubClientId": "Iv1.3961a5ba8352e725",
+    "githubClientSecret": "7667d6bc2fc807ffdd2f37f3569a6367fd25a05e"
+}
